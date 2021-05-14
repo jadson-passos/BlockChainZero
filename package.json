@@ -1,0 +1,15 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "main": "block.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jadson Passos",
+  "license": "ISC",
+  "description": "Blockchain - Genesis Block - Hash with SHA-256 NodeJS",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
